@@ -1,2 +1,2 @@
 # Python-Codes
-Contains simple Python programs.
+Contains simple Python programs
